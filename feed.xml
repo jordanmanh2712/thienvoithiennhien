@@ -3,7 +3,7 @@
     <title>Thiền với Thiên Nhiên</title>
     <link href="https://thienvoithiennhien.com/feed.xml" rel="self" />
     <link href="https://thienvoithiennhien.com" />
-    <updated>2021-04-29T07:49:24+07:00</updated>
+    <updated>2021-04-29T07:50:39+07:00</updated>
     <author>
         <name>Kiều Mạnh</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://thienvoithiennhien.com/phan-hoi.html</id>
             <category term="phản hồi"/>
 
-        <updated>2021-04-29T07:49:24+07:00</updated>
+        <updated>2021-04-29T07:50:39+07:00</updated>
             <summary>
                 <![CDATA[
                      
@@ -29,6 +29,8 @@
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://thienvoithiennhien.com/media/posts/7/gallery/1.png" data-size="1530x695"><img loading="lazy" src="https://thienvoithiennhien.com/media/posts/7/gallery/1-thumbnail.png" alt="" width="768" height="349"></a></figure>
 </div></div>
+<p> </p>
+<p> </p>
             ]]>
         </content>
     </entry>
