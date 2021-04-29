@@ -13,9 +13,9 @@
         {
             "id": "https://thienvoithiennhien.com/phan-hoi.html",
             "url": "https://thienvoithiennhien.com/phan-hoi.html",
-            "title": "Phản hồi ",
+            "title": "Phản hồi của mọi người về dịch vụ hỗ trợ 😇",
             "summary": " ",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://thienvoithiennhien.com/media/posts/7/gallery/1.png\" data-size=\"1530x695\"><img loading=\"lazy\" src=\"https://thienvoithiennhien.com/media/posts/7/gallery/1-thumbnail.png\" alt=\"\" width=\"768\" height=\"349\"></a></figure>\n</div></div>\n<p> </p>\n<p> </p>",
+            "content_html": "<p> </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://thienvoithiennhien.com/media/posts/7/gallery/1.png\" data-size=\"1530x695\"><img loading=\"lazy\" src=\"https://thienvoithiennhien.com/media/posts/7/gallery/1-thumbnail.png\" alt=\"\" width=\"768\" height=\"349\"></a></figure>\n</div></div>\n<p> </p>\n<p> </p>",
             "author": {
                 "name": "Kiều Mạnh"
             },
@@ -23,7 +23,7 @@
                    "phản hồi"
             ],
             "date_published": "2021-04-29T07:48:07+07:00",
-            "date_modified": "2021-04-29T07:50:39+07:00"
+            "date_modified": "2021-04-29T07:52:13+07:00"
         },
         {
             "id": "https://thienvoithiennhien.com/dich-vu-ho-tro-thuc-hanh-thien.html",
