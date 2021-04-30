@@ -3,7 +3,7 @@
     <title>Thiền với Thiên Nhiên</title>
     <link href="https://thienvoithiennhien.com/feed.xml" rel="self" />
     <link href="https://thienvoithiennhien.com" />
-    <updated>2021-04-30T16:10:11+07:00</updated>
+    <updated>2021-04-30T16:45:18+07:00</updated>
     <author>
         <name>Kiều Mạnh</name>
     </author>
@@ -366,7 +366,7 @@
         </content>
     </entry>
     <entry>
-        <title>Phản hồi của mọi người về dịch vụ hỗ trợ 😇</title>
+        <title>Phản hồi mọi người về dịch vụ hỗ trợ 😇</title>
         <author>
             <name>Kiều Mạnh</name>
         </author>
@@ -374,7 +374,7 @@
         <id>https://thienvoithiennhien.com/phan-hoi.html</id>
             <category term="phản hồi"/>
 
-        <updated>2021-04-29T07:52:13+07:00</updated>
+        <updated>2021-04-30T16:45:18+07:00</updated>
             <summary>
                 <![CDATA[
                      
@@ -383,8 +383,13 @@
         <content type="html">
             <![CDATA[
                 <p> </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://thienvoithiennhien.com/media/posts/7/gallery/1.png" data-size="1530x695"><img loading="lazy" src="https://thienvoithiennhien.com/media/posts/7/gallery/1-thumbnail.png" alt="" width="768" height="349"></a></figure>
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="1">
+<figure class="gallery__item"><a href="https://thienvoithiennhien.com/media/posts/7/gallery/1.png" data-size="1530x695"><img loading="lazy" src="https://thienvoithiennhien.com/media/posts/7/gallery/1-thumbnail.png" alt="" width="768" height="349"></a>
+<figcaption>27/04/2021</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://thienvoithiennhien.com/media/posts/7/gallery/2.jpg" data-size="404x522"><img loading="lazy" src="https://thienvoithiennhien.com/media/posts/7/gallery/2-thumbnail.jpg" alt="" width="404" height="522"></a>
+<figcaption>30/04/2021</figcaption>
+</figure>
 </div></div>
 <p> </p>
 <p> </p>
