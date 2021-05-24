@@ -3,7 +3,7 @@
     <title>Thiền với Thiên Nhiên</title>
     <link href="https://thienvoithiennhien.com/feed.xml" rel="self" />
     <link href="https://thienvoithiennhien.com" />
-    <updated>2021-05-24T21:40:24+07:00</updated>
+    <updated>2021-05-24T22:25:24+07:00</updated>
     <author>
         <name>Kiều Mạnh</name>
     </author>
@@ -75,7 +75,7 @@
             <category term="đóng góp ủng hộ"/>
             <category term="thông tin chuyển khoản"/>
 
-        <updated>2021-05-24T21:40:24+07:00</updated>
+        <updated>2021-05-24T22:25:24+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://thienvoithiennhien.com/media/posts/30/Quy-dong-gop2.png" alt="Quỹ đóng góp Ong Vàng [Cập nhật 24/7] " />
@@ -105,8 +105,8 @@
 <p>Quỹ dự phòng sẽ dùng khi có những vấn đề, sự cố đột ngột phát sinh. (Mà nói thật ra, đủ nhu cầu vận hành dự án là mình mừng lắm rồi, chứ dư thì xa quá 😆)</p>
 <p><strong>✅ Bạn có thể chia sẻ nguồn tài chính qua 2 hướng sau:</strong></p>
 <ul>
-<li><em><strong>Ủng hộ bằng chuyển khoản ngân hàng </strong></em>(Thông tin cập nhật ở phía dưới bài viết)</li>
-<li><strong><em><a href="https://www.buymeacoffee.com/naturezen" target="_blank" rel="noopener noreferrer">Ủng hộ dự án bằng 1 ly cà</a><a href="https://www.buymeacoffee.com/naturezen" target="_blank" rel="noopener noreferrer"> phê</a> </em></strong>(Thông qua các cổng thanh toán quốc tế như <em><strong>Paypal</strong></em>/<em><strong>thẻ visa</strong></em>/<strong><i>mastercard</i></strong>...)<br><br></li>
+<li><em><strong>Ủng hộ bằng chuyển khoản ngân hàng </strong></em>(Thông tin chuyển khoản <em><a href="#chuyenkhoan">tại đây</a></em>)</li>
+<li><a href="https://www.buymeacoffee.com/naturezen" target="_blank" rel="noopener noreferrer"><em><strong>Ủng hộ dự án bằng 1 ly cà phê</strong></em></a> (Thông qua các cổng thanh toán quốc tế như <em><strong>Paypal</strong></em>/<em><strong>thẻ visa</strong></em>/<strong><i>mastercard</i></strong>...)<br><br></li>
 </ul>
 <p>Lý do mình sinh ra ý tưởng <strong><em><a href="https://www.buymeacoffee.com/naturezen" target="_blank" rel="noopener noreferrer">Ủng hộ dự án bằng 1 ly cà</a><a href="https://www.buymeacoffee.com/naturezen" target="_blank" rel="noopener noreferrer"> phê</a> </em></strong>cũng đến từ 1 lần mình biết đến trang web<strong> <em><a href="https://www.buymeacoffee.com/dashboard" target="_blank" rel="noopener noreferrer">Buymeacoffee.com</a></em></strong>. Đó là một sự chia sẻ niềm vui giữa con người và con người khi chúng ta quý mến lẫn nhau. 😊</p>
 <p>Mình nghĩ rằng <span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">thay vì thu phí học tập, thực hành từ các bạn rồi đi thanh toán những khoản chi phí vận hành dự án, điều đó không đúng giống như định hướng ban đầu của dự án. ☕</span></p>
@@ -362,7 +362,7 @@
 </tbody>
 </table>
 <p class="align-left"> </p>
-<p class="align-left">✅ <em><strong>Thông tin chuyển khoản:</strong></em></p>
+<p id="chuyenkhoan" class="align-left">✅ <em><strong>Thông tin chuyển khoản:</strong></em></p>
 <p class="align-left"><em><strong>Chủ tài khoản: </strong></em>Kiều Xuân Mạnh</p>
 <table class="align-left" style="border-collapse: collapse; width: 100%; height: 161px;" border="1">
 <tbody>
