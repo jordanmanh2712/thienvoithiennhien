@@ -3,7 +3,7 @@
     <title>Thiền với Thiên Nhiên</title>
     <link href="https://thienvoithiennhien.com/feed.xml" rel="self" />
     <link href="https://thienvoithiennhien.com" />
-    <updated>2021-05-27T21:34:46+07:00</updated>
+    <updated>2021-05-28T04:48:11+07:00</updated>
     <author>
         <name>Kiều Mạnh</name>
     </author>
@@ -110,7 +110,7 @@
             <category term="đóng góp ủng hộ"/>
             <category term="thông tin chuyển khoản"/>
 
-        <updated>2021-05-27T21:34:46+07:00</updated>
+        <updated>2021-05-28T04:48:11+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://thienvoithiennhien.com/media/posts/30/Quy-dong-gop2.png" alt="Quỹ đóng góp Ong Vàng [Cập nhật 24/7] " />
@@ -220,13 +220,13 @@
 </td>
 </tr>
 <tr style="height: 137px;">
-<td class="align-center" style="width: 20.3625%; height: 169px;"><span style="color: #169179;"><span style="color: #041508;">Bộ 1 bàn + 4 ghế gỗ xếp gọn tiếp khách</span><em style="color: #169179; font-weight: bold;"><span style="color: #041508;"> </span><strong>[Ưu tiên]</strong></em></span></td>
+<td class="align-center" style="width: 20.3625%; height: 169px;"><span style="color: #169179;"><span style="color: #041508;">Bộ 1 bàn + 6 ghế xếp gọn tiếp khách</span><em style="color: #169179; font-weight: bold;"><span style="color: #041508;"> </span><strong>[Ưu tiên]</strong></em></span></td>
 <td class="align-center" style="width: 12.2734%; height: 169px;">30/05</td>
-<td class="align-center" style="width: 8.47294%; height: 169px;">600.000 ₫</td>
+<td class="align-center" style="width: 8.47294%; height: 169px;">400.000 ₫</td>
 <td class="align-center" style="width: 36.2275%; height: 169px;">
-<div>0%
+<div>100%
 <div id="progressbar">
-<div id="subbar" style="width: 1%;"> </div>
+<div id="subbar" style="width: 100%;"> </div>
 </div>
 </div>
 </td>
@@ -236,9 +236,9 @@
 <td class="align-center" style="width: 12.2734%; height: 238px;">14/06</td>
 <td class="align-center" style="width: 8.47294%; height: 238px;">4.180.000 ₫</td>
 <td class="align-center" style="width: 36.2275%; height: 238px;">
-<div>0%
+<div>25%
 <div id="progressbar">
-<div id="subbar" style="width: 1%;"> </div>
+<div id="subbar" style="width: 25%;"> </div>
 </div>
 </div>
 </td>
@@ -322,26 +322,12 @@
 </td>
 </tr>
 <tr style="height: 166px;">
-<td class="align-center" style="width: 20.3625%; height: 166px;">Thuê phần mềm<em> <a href="https://plus24h.com/" target="_blank" rel="noopener noreferrer">Fplus</a></em> hỗ trợ truyền thông mỗi tháng</td>
-<td class="align-center" style="width: 12.2734%; height: 166px;">05/06</td>
+<td class="align-center" style="width: 20.3625%; height: 166px;">Thuê phần mềm<em> <a href="https://www.vfppro.com/2021/03/phan-mem-ang-tin-vfp-pro.html" target="_blank" rel="noopener noreferrer">VFP Pro</a> </em>hỗ trợ truyền thông MXH Facebook mỗi tháng</td>
+<td class="align-center" style="width: 12.2734%; height: 166px;">27/07</td>
 <td class="align-center" style="width: 8.47294%; height: 166px;">100.000 ₫</td>
-<td class="align-center" style="width: 36.2275%; height: 166px;">
-<div>0%
+<td class="align-center" style="width: 36.2275%; height: 166px;">Đã xong 100%<br>
 <div id="progressbar">
-<div id="subbar" style="width: 1%;"> </div>
-</div>
-</div>
-</td>
-</tr>
-<tr>
-<td class="align-center" style="width: 20.3625%;">Mua phần mềm <em><a href="https://safeposter.com/pricing/" target="_blank" rel="noopener noreferrer">SafePoster</a></em> quản lý công việc chia sẻ trên Facebook</td>
-<td class="align-center" style="width: 12.2734%;">30/06</td>
-<td class="align-center" style="width: 8.47294%;">670.000 đ</td>
-<td class="align-center" style="width: 36.2275%;">
-<div>10%
-<div id="progressbar">
-<div id="subbar" style="width: 10%;"> </div>
-</div>
+<div id="subbar" style="width: 100%;"> </div>
 </div>
 </td>
 </tr>
@@ -387,9 +373,9 @@
 <td class="align-center" style="width: 12.2734%; height: 202px;">Hàng tháng</td>
 <td class="align-center" style="width: 8.47294%; height: 202px;">4.800.000 đ</td>
 <td class="align-center" style="width: 36.2275%; height: 202px;">
-<div>0%
+<div>10%
 <div id="progressbar">
-<div id="subbar" style="width: 1%;"> </div>
+<div id="subbar" style="width: 10%;"> </div>
 </div>
 </div>
 </td>
