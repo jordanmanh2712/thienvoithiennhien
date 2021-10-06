@@ -14,8 +14,8 @@
             "id": "https://thienvoithiennhien.com/radio/",
             "url": "https://thienvoithiennhien.com/radio/",
             "title": "Kênh Radio Thiền",
-            "summary": "Listen to \"Thiền với Thiên Nhiên\" on Spreaker.",
-            "content_html": "<p class=\"align-center\"><a class=\"spreaker-player\" href=\"https://www.spreaker.com/show/thienvoithiennhien\" data-resource=\"show_id=4928300\" data-width=\"100%\" data-height=\"500px\" data-theme=\"light\" data-playlist=\"show\" data-playlist-continuous=\"true\" data-chapters-image=\"true\" data-episode-image-position=\"right\" data-hide-logo=\"false\" data-hide-likes=\"false\" data-hide-comments=\"false\" data-hide-sharing=\"false\" data-hide-download=\"true\">Listen to \"Thiền với Thiên Nhiên\" on Spreaker.</a></p>",
+            "summary": "Listen to \"Thiền với Thiên Nhiên\" on Spreaker. ",
+            "content_html": "<p class=\"align-center\"><a class=\"spreaker-player\" href=\"https://www.spreaker.com/show/thienvoithiennhien\" data-resource=\"show_id=4928300\" data-width=\"100%\" data-height=\"500px\" data-theme=\"light\" data-playlist=\"show\" data-playlist-continuous=\"true\" data-chapters-image=\"true\" data-episode-image-position=\"right\" data-hide-logo=\"false\" data-hide-likes=\"false\" data-hide-comments=\"false\" data-hide-sharing=\"false\" data-hide-download=\"true\">Listen to \"Thiền với Thiên Nhiên\" on Spreaker.</a></p>\n<p> </p>",
             "author": {
                 "name": "Kiều Mạnh"
             },
@@ -23,7 +23,7 @@
                    "radio"
             ],
             "date_published": "2021-10-06T18:51:48+07:00",
-            "date_modified": "2021-10-06T18:56:48+07:00"
+            "date_modified": "2021-10-06T18:59:08+07:00"
         },
         {
             "id": "https://thienvoithiennhien.com/y-nghia-thuc-su-trong-viec-tho-cung/",
